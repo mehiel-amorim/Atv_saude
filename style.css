@@ -10,7 +10,7 @@ header{
 }
 header nav ul li{
  padding: 2vw 0 2vw 0;
- color: #c5c5c5;
+ color: #dad8d8;
 }
 
 /*===Banner*/
@@ -32,13 +32,13 @@ section#banner p{
 section#banner p a{
   border: solid #458FF6 ;
   color: white;
-  background-color: #458FF6;
+  background-color: #4188eb;
   padding: 6px 20px 6px 20px;
   border-radius: 8vw;
 }
 section.banner p a:hover{
   background-color: white;
-  color: #458FF6;
+  color: #2b69c0;
 }
 
 /*===Main===*/
